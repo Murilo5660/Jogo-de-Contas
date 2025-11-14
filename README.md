@@ -1,4 +1,4 @@
-# Jogo de Contas – Desafio de Matemática
+# Jogo de Contas
 
 Este projeto é um pequeno jogo de perguntas matemáticas em que o jogador precisa resolver contas de adição. A cada partida, um número aleatório de desafios é gerado, tornando o jogo mais divertido e imprevisível.
 
